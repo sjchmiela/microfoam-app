@@ -39,7 +39,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
       // that is a good solution here too?
       projectId:
         process.env.EAS_BUILD_PROJECT_ID ??
-        "f19296df-44bd-482a-90bb-2af254c6ac42",
+        "55403f70-6219-4b97-8c63-7d7f7424a9b4",
     },
   },
   plugins: [
