@@ -8,8 +8,11 @@
     "userInterfaceStyle": "automatic",
     "scheme": "microfoam",
     "backgroundColor": "#1e1e1e",
-    "owner": "brents",
-    "platforms": ["ios", "android"],
+    "owner": "stanley",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
