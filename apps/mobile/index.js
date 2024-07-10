@@ -7,6 +7,8 @@ import "react-native-get-random-values";
 // Register app entry through Expo Router
 
 ///kjhjgh
+
+//dfsf
 import "expo-router/entry";
 
 import * as Sentry from "@sentry/react-native";
