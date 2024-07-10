@@ -5,6 +5,8 @@ import "react-native-url-polyfill/auto";
 import "react-native-get-random-values";
 
 // Register app entry through Expo Router
+
+///kjhjgh
 import "expo-router/entry";
 
 import * as Sentry from "@sentry/react-native";
