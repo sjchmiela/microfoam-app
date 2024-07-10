@@ -84,6 +84,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
 });
 
 function getUpdatesUrl() {
+  return "http://127.0.0.1:3000/expo-updates/f1113a25-c363-49f5-b314-0bff42e19a69";
   if (process.env.EXPO_STAGING) {
     return "https://staging-u.expo.dev/6122a374-f53d-4d9e-ac78-1fef59eeb937";
   } else {
